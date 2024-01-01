@@ -2,6 +2,9 @@
 
 # Lecture 1
 
+* IaaS
+* FaaS
+
 # Lecture 2
 
 # Lecture 3

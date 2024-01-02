@@ -7,6 +7,11 @@
 
 # Lecture 2
 
+* Public / Subscribe thingy – week 2 slides
+* When a proxy is coupled with an example – week 2 slides
+* What is flooding with 2 variants of validation – compare with random walk – week 2 slides
+* TTL example with flooding / RW – week 2 slides
+* 
 # Lecture 3
 
 # Lecture 4

@@ -23,6 +23,7 @@
 # Lecture 5
 
 * Workflow and dependencies
+* Workflow Life-Cycle
 
 # Lecture 6
 

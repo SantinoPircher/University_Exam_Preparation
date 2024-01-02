@@ -18,7 +18,11 @@
 
 # Lecture 4
 
+/
+
 # Lecture 5
+
+* Workflow and dependencies
 
 # Lecture 6
 
